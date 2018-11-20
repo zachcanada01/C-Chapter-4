@@ -1,0 +1,10 @@
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\bin\Debug\FahrenheitToCelsiusForm.exe.config
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\bin\Debug\FahrenheitToCelsiusForm.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\bin\Debug\FahrenheitToCelsiusForm.pdb
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.Form1.resources
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.Properties.Resources.resources
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.csproj.GenerateResource.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsiusForm\FahrenheitToCelsiusForm\obj\Debug\FahrenheitToCelsiusForm.pdb
