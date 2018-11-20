@@ -1,0 +1,7 @@
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\obj\Debug\AgeGame.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\obj\Debug\AgeGame.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\bin\Debug\AgeGame.exe.config
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\bin\Debug\AgeGame.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\bin\Debug\AgeGame.pdb
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\obj\Debug\AgeGame.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\AgeGame\AgeGame\obj\Debug\AgeGame.pdb

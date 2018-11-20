@@ -1,0 +1,7 @@
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe.config
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.pdb
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\FahrenheitToCelsius.pdb

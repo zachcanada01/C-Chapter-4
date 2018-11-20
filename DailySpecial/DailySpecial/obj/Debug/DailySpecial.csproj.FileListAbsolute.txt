@@ -1,0 +1,10 @@
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\bin\Debug\DailySpecial.pdb
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csprojAssemblyReference.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.CoreCompileInputs.cache
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.exe
+C:\Users\zc137160\Desktop\C#\C-Chapter-4\DailySpecial\DailySpecial\obj\Debug\DailySpecial.pdb
